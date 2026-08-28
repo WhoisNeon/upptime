@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "walt-bot",
     "status": "down",
-    "uptime": "40.40%",
-    "uptimeDay": "40.40%",
-    "uptimeWeek": "40.40%",
-    "uptimeMonth": "40.40%",
-    "uptimeYear": "40.40%",
+    "uptime": "35.83%",
+    "uptimeDay": "35.83%",
+    "uptimeWeek": "35.83%",
+    "uptimeMonth": "35.83%",
+    "uptimeYear": "35.83%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -25,16 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "walt-bot-2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "64.11%",
+    "uptimeDay": "64.11%",
+    "uptimeWeek": "64.11%",
+    "uptimeMonth": "64.11%",
+    "uptimeYear": "64.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-28": 0
+    }
   }
 ]
